@@ -25,6 +25,3 @@ There is a `db.spl` file uploaded in this repository. To practice using the HR d
 3. **Start Practicing**:
    - Once the database is set up, you can start using the SQL questions and queries provided in this repository to enhance your SQL skills.
 
-## Getting Started
-
-1. **Clone the repository**: 
