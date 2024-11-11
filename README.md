@@ -1,6 +1,6 @@
 # SQL Mastery: From Basics to Advanced Concepts 🚀
 
-Welcome! This repository is a comprehensive resource for learning SQL, covering everything from foundational concepts to advanced techniques. Throughout my SQL learning journey, I explored essential topics and applied these skills by solving over 100 questions based on an HR database.
+Welcome! This repository is a comprehensive resource for learning SQL, covering everything from foundational concepts to advanced techniques. Throughout my SQL learning journey, I explored essential topics and applied these skills by solving over 100+ questions based on an HR database.
 
 ## 📚 Topics Covered
 - **Data Types and Functions**: Learn the fundamentals of data retrieval, date/time functions, string manipulation, and more.
